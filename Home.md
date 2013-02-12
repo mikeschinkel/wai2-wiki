@@ -1,0 +1,1 @@
+Welcome to the wai2 wiki!
