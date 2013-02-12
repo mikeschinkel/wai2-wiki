@@ -24,7 +24,7 @@ You can contribute to the  by:
 - **Submitting proposals** for discussion [**here**](https://github.com/wai2/wai2/issues) on the GitHub issue tracker
 - **Discussing the proposals**  on the [issue tracker](https://github.com/wai2/wai2/issues).
 - **Discussing ideas** on the [API Craft](http://groups.google.com/group/api-craft) mailing list _(assuming list owners/members do not object.)_
-- **Suggesting changes** to the wiki _(_[_here's how_](#how-to-edit)_)_
+- **Suggesting changes** to the wiki _([_here's how_](#how-to-edit))_
 - **Authoring** first draft **recommendations** of for API solutions.
 - **Developing** portions of the Javascript-based reference implementation.
 - **Implementing** recommendations in other languages besides Javascript.
